@@ -7,17 +7,17 @@
  - CI/CD
  - 算法
  - 人工智能
-   - Machine Learning
-   - Deep Learning
+    - Machine Learning
+    - Deep Learning
  - 大数据
 
-- 团队培训
- - 计算机基础
-   - 硬件
-   - 操作系统
-   - 网络
-     - TCP／UDP
-     - HTTP
+- 团队知识储备
+  - 计算机基础
+    - 硬件
+    - 操作系统
+    - 网络
+      - TCP／UDP
+      - HTTP
 
  - 编程技术
    - Java基础
